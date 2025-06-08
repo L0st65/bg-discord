@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdnb.artstation.com/p/assets/images/images/045/777/903/large/astero-20220118.jpg?1643523069);
+  --theme-background-image: url(https://github.com/L0st65/bg-discord/blob/main/bg.jpg);
 
   /*
     Main Theme Color
